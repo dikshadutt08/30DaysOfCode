@@ -9,4 +9,4 @@ Here are the solutions to all the HackerRank challenge questions For this series
 ### The following is the list of problem statements and solutions:
 #
 
-- **Day0**: [Question](https://www.hackerrank.com/challenges/30-hello-world/problem)
+- **Day0**: [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) [Solutions](https://github.com/dikshadutt08/30DaysOfCode/tree/master/Day0) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
