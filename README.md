@@ -4,9 +4,9 @@
 
 30-days tutorial for people to learn a programming language.
 
-Here are the solutions to all the HackerRank challenge questions For this series. Join [HERE](http://hr.gs/fdeeee) to practice.
+Here are the solutions to all the HackerRank challenge questions for this 30 days of code series. You can join [here](http://hr.gs/fdeeee) to practice and learn.
 
-### The following is the list of problem statements and solutions:
+### Following is the list of problems and solutions:
 #
 
 - **Day0**: [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) [Solutions](https://github.com/dikshadutt08/30DaysOfCode/tree/master/Day0) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
