@@ -1,6 +1,6 @@
 # 30DaysOfCode
 
-![open issues](https://img.shields.io/github/issues/dikshadutt08/30-Days-Of-Code?color=%2319a249) ![open PR](https://img.shields.io/github/issues-pr-closed/dikshadutt08/30-days-of-code?color=%23f25f56) ![forks](https://img.shields.io/github/forks/dikshadutt08/30-days-of-code?style=social)
+![open issues](https://img.shields.io/github/issues/dikshadutt08/30DaysOfCode?color=%2319a249) ![open PR](https://img.shields.io/github/issues-pr-closed/dikshadutt08/30DaysOfCode?color=%23f25f56) ![forks](https://img.shields.io/github/forks/dikshadutt08/30DaysOfCode?style=social)
 
 30-days tutorial for people to learn a programming language.
 
