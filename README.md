@@ -11,6 +11,7 @@ Here are the solutions to all the HackerRank challenge questions for this 30 day
 
 - **Day0**: [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) [Solutions](https://github.com/dikshadutt08/30DaysOfCode/tree/master/Day0) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+- **Day1**: [Question](https://www.hackerrank.com/challenges/30-data-types/problem)
 
 ## Contributing
 
