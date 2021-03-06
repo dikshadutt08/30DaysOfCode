@@ -15,6 +15,8 @@ Here are the solutions to all the HackerRank challenge questions for this 30 day
 
 - **Day2**: [Question](https://www.hackerrank.com/challenges/30-operators/problem)
 
+- **Day3**: [Question](- **Day2**: [Question](https://www.hackerrank.com/challenges/30-operators/problem))
+
 ## Contributing
 
 You are all welcome to contribute to this project. You can contribute either by reporting/submitting bugs or suggesting improvements by opening an issue on GitHub. Please refer to the [CONTRIBUTING](https://github.com/dikshadutt08/30DaysOfCode/blob/master/CONTRIBUTING.md) guidelines for all the required information.
