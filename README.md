@@ -15,7 +15,7 @@ Here are the solutions to all the HackerRank challenge questions for this 30 day
 
 - **Day2**: [Question](https://www.hackerrank.com/challenges/30-operators/problem)
 
-- **Day3**: [Question](- **Day2**: [Question](https://www.hackerrank.com/challenges/30-operators/problem))
+- **Day3**: [Question](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
 
 ## Contributing
 
