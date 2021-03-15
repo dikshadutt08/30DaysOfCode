@@ -13,7 +13,7 @@ Here are the solutions to all the HackerRank challenge questions for this 30 day
 
 - **Day1**: [Question](https://www.hackerrank.com/challenges/30-data-types/problem) [Solutions](https://github.com/dikshadutt08/30DaysOfCode/tree/master/Day1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- **Day2**: [Question](https://www.hackerrank.com/challenges/30-operators/problem)
+- **Day2**: [Question](https://www.hackerrank.com/challenges/30-operators/problem)) [Solutions](https://github.com/dikshadutt08/30DaysOfCode/tree/master/Day2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - **Day3**: [Question](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
 
